@@ -1,12 +1,51 @@
-### Hi, I'm (Redoy Guho Roy) 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Redoyguhoroy/Redoyguhoroy/main/banner.png" />
+</p>
 
-![Banner]([your-image-link-here](https://www.canva.com/design/DAFuN9UqSMA/piiKeAa4EPsf13TlUf6cQQ/edit))
-<!--
-**Redoyguhoroy/Redoyguhoroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Redoy Guho Roy
 
-Here are some ideas to get you started:
+💼 Aspiring SQA Engineer  
+🧪 Passionate about Software Testing & Quality Assurance  
+🌍 From Bangladesh  
 
-- 🔭 I’m interest in IT sector...
-- 🌱 I’m currently learning C programming ...
-- 👯 I’m looking to collaborate on python auto mission...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🔍 Interested in IT & Software Testing field  
+- 🌱 Currently learning C Programming  
+- 🤖 Exploring Automation Testing  
+- 🐞 Love finding bugs & improving product quality  
+
+---
+
+### 🛠 Skills & Tools
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+### 🚀 Goals
+
+- ✅ Build Automation Testing Framework  
+- ✅ Improve Programming Skills  
+- ✅ Contribute to Open Source Testing Projects  
+
+---
+
+### 📊 GitHub Stats
+
+![Redoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Redoyguhoroy&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Redoyguhoroy&theme=radical)
+
+---
+
+### 📫 Connect With Me
+
+- 📧 Email: royredoyguho@gmail.com
+- 💼 LinkedIn:https://www.linkedin.com/in/redoyguhoroy/
