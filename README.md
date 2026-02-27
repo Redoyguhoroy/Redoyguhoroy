@@ -48,5 +48,5 @@
 
 ### 📫 Connect With Me
 
-- 📧 Email: royredoyguho@gmail.com
-- 💼 LinkedIn:https://www.linkedin.com/in/redoyguhoroy/
+- Email: royredoyguho@gmail.com
+- LinkedIn:https://www.linkedin.com/in/redoyguhoroy/
