@@ -1,5 +1,6 @@
 ### Hi, I'm (Redoy Guho Roy) 👋
 
+![Banner]([your-image-link-here](https://www.canva.com/design/DAFuN9UqSMA/piiKeAa4EPsf13TlUf6cQQ/edit))
 <!--
 **Redoyguhoroy/Redoyguhoroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
