@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 - 🔍 Interested in IT & Software Testing field  
-- 🌱 Currently learning C Programming  
+- 🌱 Currently learning Python Programming  
 - 🤖 Exploring Automation Testing  
 - 🐞 Love finding bugs & improving product quality  
 
