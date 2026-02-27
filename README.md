@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Redoyguhoroy/Redoyguhoroy/main/banner.png" />
+  <img src="banner.png" width="100%" />
 </p>
 
 # Hi 👋, I'm Redoy Guho Roy
